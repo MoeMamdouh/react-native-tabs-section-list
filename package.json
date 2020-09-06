@@ -2,7 +2,6 @@
   "name": "react-native-tabs-section-list",
   "version": "1.0.1",
   "description": "React Native SectionList with scrollable tabs",
-  "main": "lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
     "build": "rm -rf ./lib/* && yarn lint && tsc",
